@@ -60,16 +60,6 @@ El dataset **no está incluido en el repositorio** por su tamaño (~163 MB). Ver
 ## Requisitos
 
 El notebook está diseñado para Google Colab, que incluye todas las dependencias preinstaladas.
-Versiones utilizadas:
-
-| Librería | Versión |
-| --- | --- |
-| Python | [versión] |
-| TensorFlow / Keras | [versión] / [versión] |
-| NumPy | [versión] |
-| scikit-learn | [versión] |
-| pandas | [versión] |
-| matplotlib | [versión] |
 
 ## Metodología
 
